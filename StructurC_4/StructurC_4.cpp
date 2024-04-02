@@ -1,5 +1,6 @@
 // Struktur C 4
 #include <iostream>
+#include <string>
 using namespace  std;
 
 struct DetailAlamat {
